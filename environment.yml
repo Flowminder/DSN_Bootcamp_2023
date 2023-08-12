@@ -1,0 +1,14 @@
+name: geo_python
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - jupyterlab
+  - pandas
+  - geopandas
+  - rasterio
+  - folium
+  - shapely
+  - scipy
+  - rasterstats
