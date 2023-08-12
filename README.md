@@ -12,8 +12,8 @@ To be able to run the notebooks on your local machine, you will first need to do
 You can run the following in a `bash` shell (or a git-bash terminal on Windows) to set everything up (in the folder your terminal is currently located):
 
 ```bash
-git clone XXX
-cd XXX
+git clone https://github.com/Flowminder/DSN_Bootcamp_2023
+cd DSN_Bootcamp_2023
 conda env create -f environment.yml
 ```
 
@@ -26,7 +26,7 @@ To run the notebooks on your local machine, you can do the following:
 To do this, you can run the following in a `bash` shell (or a git-bash terminal on Windows):
 
 ```bash
-conda activate GH-CDR-analysis
+conda activate geo_python
 jupyter lab
 ```
 
@@ -37,11 +37,11 @@ Using geospatial data:
 - Ward and state boundaries
 - Health facility locations
 
-We want assess health facility coverage for maternal healthcare in Kaduna state, Nigeria.
+We want to assess health facility coverage for maternal healthcare in Kaduna state, Nigeria.
 
 ## Practical 2: XXX
 
 
 ## Links
-You can find a rendered version of the notebook for Practical 1 [here](XXX).
+You can find a rendered version of the notebook for Practical 1 [here](XXX).  
 You can find a rendered version of the notebook for Practical 2 [here](XXX).
