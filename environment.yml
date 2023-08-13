@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - ipykernel
+  - ipywidgets
   - jupyterlab
   - pandas
   - geopandas
@@ -12,3 +12,6 @@ dependencies:
   - shapely
   - scipy
   - rasterstats
+  - jupyterlab_code_formatter
+  - black
+  - isort
