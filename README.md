@@ -39,8 +39,14 @@ Using geospatial data:
 
 We want to assess health facility coverage for maternal healthcare in Kaduna state, Nigeria.
 
-## Practical 2: XXX
+## Practical 2: Call Detail Records (CDR) analytics in Nigeria
 
+Using a mobile phone dataset:
+- Synthetic CDR data
+- Cell towers
+- Ward and region boundaries
+
+We want to understand the dataset available and perform a first mobility analysis in Nigeria.
 
 ## Links
 You can find a rendered version of the notebook for [Practical 1 here](https://nbviewer.org/github/Flowminder/DSN_Bootcamp_2023/blob/main/DSN_Bootcamp.%201.%20Assessing%20Health%20Facilities%20Coverage.ipynb).  
