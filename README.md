@@ -43,5 +43,5 @@ We want to assess health facility coverage for maternal healthcare in Kaduna sta
 
 
 ## Links
-You can find a rendered version of the notebook for Practical 1 [here](XXX).  
-You can find a rendered version of the notebook for Practical 2 [here](XXX).
+You can find a rendered version of the notebook for [Practical 1 here](https://nbviewer.org/github/Flowminder/DSN_Bootcamp_2023/blob/main/DSN_Bootcamp.%201.%20Assessing%20Health%20Facilities%20Coverage.ipynb).  
+You can find a rendered version of the notebook for [Practical 2 here](https://nbviewer.org/github/Flowminder/DSN_Bootcamp_2023/blob/main/DSN_Bootcamp.%202.%20CDR%20analytics.ipynb).
